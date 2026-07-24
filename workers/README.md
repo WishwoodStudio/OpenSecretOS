@@ -29,4 +29,6 @@ produces.
   `.claude/skills/` once authorized
 - Episode artifacts a worker produces (belong in `episodes/`)
 
-No worker implementations exist yet.
+Director Worker now has an implementation under
+`.claude/skills/director-worker/`; no other worker implementations exist
+yet.

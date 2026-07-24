@@ -28,6 +28,11 @@ never be stored there, and who owns it.
 
 ## Status
 
-Skeleton stage. `docs/drafts/` holds the 18 original architecture drafts,
-not yet ratified. No canonical documents, no CLAUDE.md, no Skills, and no
-production content have been created yet.
+`docs/drafts/` still holds the 18 original architecture drafts, not yet
+ratified. `canonical/` holds working documents (Decision Log, Visual
+Identity System, Production Playbook, Mechanism Ladder, and two items
+still in draft/placeholder state — see `canonical/README.md`). `episodes/`
+holds several episode workspaces at various production stages, from early
+research through fully assembled video. A first Worker implementation
+(Director Worker) exists under `.claude/skills/`. `CLAUDE.md` still does
+not exist.

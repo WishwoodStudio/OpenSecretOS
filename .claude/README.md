@@ -9,10 +9,11 @@ Runtime-implementation detail — replaceable as a unit if the AI runtime
 ever changes, without touching `engine/`, `runtime/`, or `workers/`.
 
 ## Subfolders
-- **`skills/`** — future home for Worker implementations as Claude Code
+- **`skills/`** — home for Worker implementations as Claude Code
   Skills (`SKILL.md` + supporting files). A Skill's prompt content lives
   inside its own skill folder here, not in a separate repository-level
-  prompts directory. Empty — no Skills exist yet.
+  prompts directory. Currently holds one Skill implementation,
+  `director-worker/` (Director Worker).
 
 `CLAUDE.md` will live at the repository root (Claude Code's required
 location for auto-loading), not inside this folder.

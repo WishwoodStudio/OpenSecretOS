@@ -37,6 +37,6 @@ define binding rules.
 - Episode content
 - Worker implementation or prompt content
 
-Only `drafts/` is populated today; `architecture/`, `specifications/`,
-`adr/`, and `principles/` are empty, awaiting ratified content promoted out
-of `drafts/`.
+`drafts/` holds the 18 original unratified architecture drafts.
+`architecture/`, `specifications/`, and `adr/` are now populated with
+promoted/working content; `principles/` remains empty, awaiting content.

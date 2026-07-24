@@ -25,4 +25,7 @@ production artifacts.
 - Cross-episode/reusable assets (belongs in `assets/`)
 - Anything not tied to a specific episode
 
-This folder is currently empty: no episodes have been created yet.
+This folder currently holds five episode workspaces (`demo-episode`,
+`episode-004`, `episode-005`, `luxury-destruction`,
+`the-giant-is-the-hostage`) at various production stages, from early
+research through fully assembled video.
