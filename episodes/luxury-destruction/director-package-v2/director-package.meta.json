@@ -1,0 +1,13 @@
+{
+  "artifactId": "director-package-luxury-destruction-v2",
+  "episodeId": "luxury-destruction",
+  "version": 2,
+  "status": "Generated",
+  "ownerWorker": "Director Worker (manual regeneration — no Skill implementation exists yet)",
+  "inputDependencies": ["script-package-luxury-destruction-v1"],
+  "outputConsumers": ["QA (not yet implemented in this repository)"],
+  "lastUpdated": "2026-07-11",
+  "approvalState": "Draft",
+  "supersedes": "director-package-luxury-destruction-v1",
+  "notes": "Regenerated using the now-available Canonical Layer (Decision Log v2, Visual Identity System v2, Production Playbook v1, Mechanism Ladder v1 — all read and cited where applicable; Content Constitution v4 unavailable, stub file only). Most visual/production decisions in v1 were already consistent with the real canonical rules. One significant compliance issue was found and is NOT resolved by this artifact: total runtime (~1:16 / 76s) exceeds the 58-59 second hard target stated identically in three canonical documents (Decision Log v2, Visual Identity System v2 §8, Production Playbook v1). The source Production Package's claim of a superseding 'Duration Philosophy' with no fixed target could not be verified against any real canonical document. See director-package-comparison.md."
+}

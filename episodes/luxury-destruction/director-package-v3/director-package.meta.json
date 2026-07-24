@@ -1,0 +1,13 @@
+{
+  "artifactId": "director-package-luxury-destruction-v3",
+  "episodeId": "luxury-destruction",
+  "version": 3,
+  "status": "Generated",
+  "ownerWorker": "Director Worker (manual regeneration — no Skill implementation exists yet)",
+  "inputDependencies": ["script-package-luxury-destruction-v3 (locked, immutable — see script/script-package-v3.md)"],
+  "outputConsumers": ["QA (not yet implemented in this repository)", "Voice Package (not yet produced)"],
+  "lastUpdated": "2026-07-12",
+  "approvalState": "Draft",
+  "supersedes": "director-package-luxury-destruction-v2",
+  "notes": "Regenerated from the locked, canonical-compliant Script Package v3. Structure and canonical-citation format preserved unchanged from v2; only VO text, beat timings, and beat count (9 -> 8, beats 8a/8b/9 merged) updated to match the locked script. Runtime compliance issue from v2 is now resolved: total timed runtime is 0:58, inside the 58-59s canonical target, for the first time in this episode's production history (planning estimate, pending real VO). One new production issue introduced by the beat merge (Beat 8's internal push-in staging cue has no beat boundary to attach to; this package supplies an interpretation, flagged for review) and one new production issue from Beat 7's sharp compression (3-second on-screen window is short for a 15s reference clip) -- both documented in shot-list.md and prompts/higgsfield/block-d.md and block-e.md. Two issues carried forward unresolved from v2, unrelated to this regeneration: Content Constitution v4 is still an empty placeholder in canonical/, and the prompts/higgsfield/ folder name still doesn't match Decision Log v2's named stack (Runway/Kling). No Engine change made or proposed."
+}

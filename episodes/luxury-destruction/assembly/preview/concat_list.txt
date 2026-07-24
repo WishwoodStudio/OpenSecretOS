@@ -1,0 +1,8 @@
+file 'seg1_A.mp4'
+file 'seg2_bur.mp4'
+file 'seg3_rich.mp4'
+file 'seg4_B.mp4'
+file 'seg5_diagram.mp4'
+file 'seg6_Ctail.mp4'
+file 'seg7_D.mp4'
+file 'seg8_E.mp4'

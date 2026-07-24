@@ -1,0 +1,1787 @@
+{
+    "canvas_config": {
+        "width": 720,
+        "height": 1280,
+        "ratio": "original"
+    },
+    "color_space": 0,
+    "config": {
+        "adjust_max_index": 1,
+        "attachment_info": [],
+        "combination_max_index": 1,
+        "export_range": null,
+        "extract_audio_last_index": 1,
+        "lyrics_recognition_id": "",
+        "lyrics_sync": true,
+        "lyrics_taskinfo": [],
+        "maintrack_adsorb": true,
+        "material_save_mode": 0,
+        "multi_language_current": "none",
+        "multi_language_list": [],
+        "multi_language_main": "none",
+        "multi_language_mode": "none",
+        "original_sound_last_index": 1,
+        "record_audio_last_index": 1,
+        "sticker_max_index": 1,
+        "subtitle_keywords_config": null,
+        "subtitle_recognition_id": "",
+        "subtitle_sync": true,
+        "subtitle_taskinfo": [],
+        "system_font_list": [],
+        "use_float_render": false,
+        "video_mute": false,
+        "zoom_info_params": null
+    },
+    "cover": null,
+    "create_time": 0,
+    "duration": 62589000,
+    "extra_info": null,
+    "fps": 30,
+    "free_render_index_mode_on": false,
+    "group_container": null,
+    "id": "91E08AC5-22FB-47e2-9AA0-7DC300FAEA2B",
+    "is_drop_frame_timecode": false,
+    "keyframe_graph_list": [],
+    "keyframes": {
+        "adjusts": [],
+        "audios": [],
+        "effects": [],
+        "filters": [],
+        "handwrites": [],
+        "stickers": [],
+        "texts": [],
+        "videos": []
+    },
+    "last_modified_platform": {
+        "app_id": 359289,
+        "app_source": "cc",
+        "app_version": "6.7.0",
+        "os": "windows"
+    },
+    "lyrics_effects": [],
+    "materials": {
+        "ai_translates": [],
+        "audio_balances": [],
+        "audio_effects": [],
+        "audio_fades": [],
+        "audio_track_indexes": [],
+        "audios": [
+            {
+                "app_id": 0,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 3,
+                "copyright_limit_type": "none",
+                "duration": 62589000,
+                "effect_id": "",
+                "formula_id": "",
+                "id": "1c6120ef9cd74352ace17aa838fd9eeb",
+                "local_material_id": "1c6120ef9cd74352ace17aa838fd9eeb",
+                "music_id": "1c6120ef9cd74352ace17aa838fd9eeb",
+                "name": "narration_v1.mp3",
+                "path": "C:\\Projects\\OpenSecretOS\\episodes\\luxury-destruction\\assets\\Generated\\voice\\narration_v1.mp3",
+                "source_platform": 0,
+                "type": "extract_music",
+                "wave_points": []
+            }
+        ],
+        "beats": [],
+        "canvases": [],
+        "chromas": [],
+        "color_curves": [],
+        "digital_humans": [],
+        "drafts": [],
+        "effects": [],
+        "flowers": [],
+        "green_screens": [],
+        "handwrites": [],
+        "hsl": [],
+        "images": [],
+        "log_color_wheels": [],
+        "loudnesses": [],
+        "manual_deformations": [],
+        "masks": [],
+        "material_animations": [],
+        "material_colors": [],
+        "multi_language_refs": [],
+        "placeholders": [],
+        "plugin_effects": [],
+        "primary_color_wheels": [],
+        "realtime_denoises": [],
+        "shapes": [],
+        "smart_crops": [],
+        "smart_relights": [],
+        "sound_channel_mappings": [],
+        "speeds": [
+            {
+                "curve_speed": null,
+                "id": "86f7ddf34b6d411589575e4b08bbe92e",
+                "mode": 0,
+                "speed": 1.0,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "c59893f5589243db94803716d447b824",
+                "mode": 0,
+                "speed": 1.0,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "b493cb50f7444a7f860073d27dbbb0f5",
+                "mode": 0,
+                "speed": 1.0,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "c82f4c3715ef4498972820496eb4032e",
+                "mode": 0,
+                "speed": 1.0,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "477cab2eed384557867f5ca82028f471",
+                "mode": 0,
+                "speed": 1.0,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "d644848357974d44868fae02493b27e7",
+                "mode": 0,
+                "speed": 1.0,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "d298423fbfb04f34b277d06763946950",
+                "mode": 0,
+                "speed": 1.0,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "600accac3cd9417cb8eec0f0ed77d92f",
+                "mode": 0,
+                "speed": 0.9622169478478415,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "7446034b87d443698819074f5e4fb415",
+                "mode": 0,
+                "speed": 1.0,
+                "type": "speed"
+            }
+        ],
+        "stickers": [],
+        "tail_leaders": [],
+        "text_templates": [],
+        "texts": [
+            {
+                "id": "6908296ac0f841b7bc14f915b324fa3e",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.929, 0.918, 0.886]}}}, \"range\": [0, 13], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"£28.6 MILLION\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "16ff74a54e384790ab7a28e2d08c0308",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.929, 0.918, 0.886]}}}, \"range\": [0, 27], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"Of its own clothes. Burned.\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "441897c2fd4c4959bd8d93902edccb4a",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.91, 0.659, 0.22]}}}, \"range\": [0, 21], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"5 years. £90,000,000.\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "a8452e09f03f45078fd81385b9507ed7",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.91, 0.659, 0.22]}}}, \"range\": [0, 12], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"€481,000,000\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "ddf0b77e51b3459a9e0c376ed945ec4c",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.929, 0.918, 0.886]}}}, \"range\": [0, 19], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"Same decision. Why?\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "1c9d95c89abe4e8f803bbce401024059",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.929, 0.918, 0.886]}}}, \"range\": [0, 39], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"A marked-down coat isn't one lost sale.\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "a38e20e6f70e4777a9a169729dd7cade",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.929, 0.918, 0.886]}}}, \"range\": [0, 32], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"It's a price tag for everything.\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "339892009d784efbb843f4b339af2125",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.659, 0.333, 0.969]}}}, \"range\": [0, 16], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"THE MARKDOWN TAX\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "11777c21dbe340cc9e6081a7958c5946",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.42, 0.447, 0.502]}}}, \"range\": [0, 22], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"2018 — Burberry stops.\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "dc15643d57894c09b9a538ff09fb563a",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.42, 0.447, 0.502]}}}, \"range\": [0, 22], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"2022 — France bans it.\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "00aed4878eb44da6aed031fe76ef7118",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.929, 0.918, 0.886]}}}, \"range\": [0, 35], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"There's a different way to read it.\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "b47d9f1dadd240abb1769c478142bf39",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.929, 0.918, 0.886]}}}, \"range\": [0, 48], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"The markdown tax — paid in a different currency.\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            },
+            {
+                "id": "a4195875a2af4c6b84db4234870dd39d",
+                "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [0.929, 0.918, 0.886]}}}, \"range\": [0, 33], \"size\": 8.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": []}], \"text\": \"Exclusivity? Or the markdown tax?\"}",
+                "typesetting": 0,
+                "alignment": 1,
+                "letter_spacing": 0.0,
+                "line_spacing": 0.02,
+                "line_feed": 1,
+                "line_max_width": 0.82,
+                "force_apply_line_max_width": false,
+                "check_flag": 7,
+                "type": "text",
+                "global_alpha": 1.0
+            }
+        ],
+        "time_marks": [],
+        "transitions": [],
+        "video_effects": [],
+        "video_trackings": [],
+        "videos": [
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 15042000,
+                "height": 1280,
+                "id": "0dad7fa8d91a4e22bf41a27191e20332",
+                "local_material_id": "",
+                "material_id": "0dad7fa8d91a4e22bf41a27191e20332",
+                "material_name": "block-a_v1_seedance2mini.mp4",
+                "media_path": "",
+                "path": "C:\\Projects\\OpenSecretOS\\episodes\\luxury-destruction\\assets\\Generated\\block-A\\block-a_v1_seedance2mini.mp4",
+                "type": "video",
+                "width": 720
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 10800000000,
+                "height": 844,
+                "id": "cd71b3eaeb294ec6b15e7de3fc12dfff",
+                "local_material_id": "",
+                "material_id": "cd71b3eaeb294ec6b15e7de3fc12dfff",
+                "material_name": "burberry-evidence-v1.png",
+                "media_path": "",
+                "path": "C:\\Projects\\OpenSecretOS\\episodes\\luxury-destruction\\assets\\Supporting\\burberry-evidence-v1.png",
+                "type": "photo",
+                "width": 478
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 10800000000,
+                "height": 849,
+                "id": "32a3666b2c624839aea33320b9fb6e2d",
+                "local_material_id": "",
+                "material_id": "32a3666b2c624839aea33320b9fb6e2d",
+                "material_name": "richemont-evidence-v1.png",
+                "media_path": "",
+                "path": "C:\\Projects\\OpenSecretOS\\episodes\\luxury-destruction\\assets\\Supporting\\richemont-evidence-v1.png",
+                "type": "photo",
+                "width": 489
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 15042000,
+                "height": 1280,
+                "id": "ea70bbb00ff3416a9e5ce9eaab78f66c",
+                "local_material_id": "",
+                "material_id": "ea70bbb00ff3416a9e5ce9eaab78f66c",
+                "material_name": "block-b_v1_seedance2mini.mp4",
+                "media_path": "",
+                "path": "C:\\Projects\\OpenSecretOS\\episodes\\luxury-destruction\\assets\\Generated\\block-B\\block-b_v1_seedance2mini.mp4",
+                "type": "video",
+                "width": 720
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 15042000,
+                "height": 1280,
+                "id": "df73e60979cf4c55a8018d62a14dcf4c",
+                "local_material_id": "",
+                "material_id": "df73e60979cf4c55a8018d62a14dcf4c",
+                "material_name": "block-c_v1_seedance2mini.mp4",
+                "media_path": "",
+                "path": "C:\\Projects\\OpenSecretOS\\episodes\\luxury-destruction\\assets\\Generated\\block-C\\block-c_v1_seedance2mini.mp4",
+                "type": "video",
+                "width": 720
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 15042000,
+                "height": 1280,
+                "id": "642c1bf7bf174c6a90c405f379a60cf4",
+                "local_material_id": "",
+                "material_id": "642c1bf7bf174c6a90c405f379a60cf4",
+                "material_name": "block-d_v1_seedance2mini.mp4",
+                "media_path": "",
+                "path": "C:\\Projects\\OpenSecretOS\\episodes\\luxury-destruction\\assets\\Generated\\block-D\\block-d_v1_seedance2mini.mp4",
+                "type": "video",
+                "width": 720
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 15042000,
+                "height": 1280,
+                "id": "04ff0faccfb748c98a07dfba1ab7c052",
+                "local_material_id": "",
+                "material_id": "04ff0faccfb748c98a07dfba1ab7c052",
+                "material_name": "block-e_v1_seedance2mini.mp4",
+                "media_path": "",
+                "path": "C:\\Projects\\OpenSecretOS\\episodes\\luxury-destruction\\assets\\Generated\\block-E\\block-e_v1_seedance2mini.mp4",
+                "type": "video",
+                "width": 720
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 11000000,
+                "height": 1280,
+                "id": "f2af02bac4284ed2bea3221a53d5a588",
+                "local_material_id": "",
+                "material_id": "f2af02bac4284ed2bea3221a53d5a588",
+                "material_name": "markdown-tax-diagram_v1.mp4",
+                "media_path": "",
+                "path": "C:\\Projects\\OpenSecretOS\\episodes\\luxury-destruction\\assets\\Generated\\diagram\\markdown-tax-diagram_v1.mp4",
+                "type": "video",
+                "width": 720
+            }
+        ],
+        "vocal_beautifys": [],
+        "vocal_separations": []
+    },
+    "mutable_config": null,
+    "name": "",
+    "new_version": "140.0.0",
+    "path": "",
+    "platform": {
+        "app_id": 359289,
+        "app_source": "cc",
+        "app_version": "6.7.0",
+        "os": "windows"
+    },
+    "relationships": [],
+    "render_index_track_mode_on": false,
+    "retouch_cover": null,
+    "source": "default",
+    "static_cover_image_path": "",
+    "time_marks": null,
+    "tracks": [
+        {
+            "attribute": 0,
+            "flag": 0,
+            "id": "61cb9da878ac49cab391267c2d76aafc",
+            "is_default_name": false,
+            "name": "narration",
+            "segments": [
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "9a6335bbc58d49f5b42d28c57f340edd",
+                    "material_id": "1c6120ef9cd74352ace17aa838fd9eeb",
+                    "target_timerange": {
+                        "start": 0,
+                        "duration": 62589000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 62589000
+                    },
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "86f7ddf34b6d411589575e4b08bbe92e"
+                    ],
+                    "clip": null,
+                    "hdr_settings": null,
+                    "render_index": 0
+                }
+            ],
+            "type": "audio"
+        },
+        {
+            "attribute": 0,
+            "flag": 0,
+            "id": "4888047996e4457796d5a429bf4b6ba4",
+            "is_default_name": false,
+            "name": "base_video",
+            "segments": [
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "c4c9b68c3c9349549a14f0da65edd14c",
+                    "material_id": "0dad7fa8d91a4e22bf41a27191e20332",
+                    "target_timerange": {
+                        "start": 0,
+                        "duration": 5000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 5000000
+                    },
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "c59893f5589243db94803716d447b824"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 0
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "6d962229411a4d519069006b99218124",
+                    "material_id": "cd71b3eaeb294ec6b15e7de3fc12dfff",
+                    "target_timerange": {
+                        "start": 5000000,
+                        "duration": 5500000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 5500000
+                    },
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "b493cb50f7444a7f860073d27dbbb0f5"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 0
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "224290d9012344fd864558371784af04",
+                    "material_id": "32a3666b2c624839aea33320b9fb6e2d",
+                    "target_timerange": {
+                        "start": 10500000,
+                        "duration": 7500000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 7500000
+                    },
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "c82f4c3715ef4498972820496eb4032e"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 0
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "406483d40e284518881da661aab5df01",
+                    "material_id": "ea70bbb00ff3416a9e5ce9eaab78f66c",
+                    "target_timerange": {
+                        "start": 18000000,
+                        "duration": 12500000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 12500000
+                    },
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "477cab2eed384557867f5ca82028f471"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 0
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "9fcdf8f4b2f848499c5cc22c8f1258e8",
+                    "material_id": "df73e60979cf4c55a8018d62a14dcf4c",
+                    "target_timerange": {
+                        "start": 30500000,
+                        "duration": 11500000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 11500000
+                    },
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "d644848357974d44868fae02493b27e7"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 0
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "5811f4a3315749eb878cbfc45a564b93",
+                    "material_id": "642c1bf7bf174c6a90c405f379a60cf4",
+                    "target_timerange": {
+                        "start": 42000000,
+                        "duration": 5000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 5000000
+                    },
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "d298423fbfb04f34b277d06763946950"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 0
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "7d60924f77b84c5ebc35c65d694c6e77",
+                    "material_id": "04ff0faccfb748c98a07dfba1ab7c052",
+                    "target_timerange": {
+                        "start": 47000000,
+                        "duration": 15589000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 15000000
+                    },
+                    "speed": 0.9622169478478415,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "600accac3cd9417cb8eec0f0ed77d92f"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 0
+                }
+            ],
+            "type": "video"
+        },
+        {
+            "attribute": 0,
+            "flag": 0,
+            "id": "509e538018ba466693100ad8ec32d07f",
+            "is_default_name": false,
+            "name": "diagram_overlay",
+            "segments": [
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "5e723d56ad1c404e88b19a054ac64cae",
+                    "material_id": "f2af02bac4284ed2bea3221a53d5a588",
+                    "target_timerange": {
+                        "start": 30500000,
+                        "duration": 11000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 11000000
+                    },
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "7446034b87d443698819074f5e4fb415"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 0
+                }
+            ],
+            "type": "video"
+        },
+        {
+            "attribute": 0,
+            "flag": 0,
+            "id": "6787309b9b7f49b095705de85c11f26c",
+            "is_default_name": false,
+            "name": "typography",
+            "segments": [
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "ed471b7b32074356887679341bcbc6ef",
+                    "material_id": "6908296ac0f841b7bc14f915b324fa3e",
+                    "target_timerange": {
+                        "start": 0,
+                        "duration": 2000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "c859237955cf493cb16b0a8084015f26"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "1c94fc3f2fc34b149a98d63d9b60c5ab",
+                    "material_id": "16ff74a54e384790ab7a28e2d08c0308",
+                    "target_timerange": {
+                        "start": 2000000,
+                        "duration": 3000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "a7f47ed6cf6e4e338858eb27f347d05e"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "5b5ce7d1c0d44d779114ebe63a6b3357",
+                    "material_id": "441897c2fd4c4959bd8d93902edccb4a",
+                    "target_timerange": {
+                        "start": 7000000,
+                        "duration": 3000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "8e2fb6a8fc0c4a27a4dce7a507f0dba7"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "4dd80626da534063b184954b89845f5d",
+                    "material_id": "a8452e09f03f45078fd81385b9507ed7",
+                    "target_timerange": {
+                        "start": 14500000,
+                        "duration": 3000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "09401724f72a4943b06b5c845b7fcdce"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "740254d4f9ab40c384bd14ec2b4df7a5",
+                    "material_id": "ddf0b77e51b3459a9e0c376ed945ec4c",
+                    "target_timerange": {
+                        "start": 18000000,
+                        "duration": 5000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "1d41077d5ee54a7f9433ae1c9ddbe188"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "426e2341e1f24e029d8270cfd581d52c",
+                    "material_id": "1c9d95c89abe4e8f803bbce401024059",
+                    "target_timerange": {
+                        "start": 23000000,
+                        "duration": 3000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "00b07b97a1364cd89b3c1e72bb9d1650"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "1beeb857cedf4d269e0e1fb67aa5b021",
+                    "material_id": "a38e20e6f70e4777a9a169729dd7cade",
+                    "target_timerange": {
+                        "start": 26000000,
+                        "duration": 4000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "55f60f533b73449397f98f5a6be12265"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "68e6515504274026b6ac8a3c16d16a35",
+                    "material_id": "339892009d784efbb843f4b339af2125",
+                    "target_timerange": {
+                        "start": 38500000,
+                        "duration": 3000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "83410d7cb15246e3ae6ca3257db6a311"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "353c55de70fe4979ad51e4d54fd9f8ea",
+                    "material_id": "11777c21dbe340cc9e6081a7958c5946",
+                    "target_timerange": {
+                        "start": 42000000,
+                        "duration": 2500000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "b12b7062347647f986b190514c665143"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "ecc5fec886854d259d2fe116113c1128",
+                    "material_id": "dc15643d57894c09b9a538ff09fb563a",
+                    "target_timerange": {
+                        "start": 44500000,
+                        "duration": 2500000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "1de997c2e57642d394264168124391e7"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "cd7cd188f981437eae186d933a72d136",
+                    "material_id": "00aed4878eb44da6aed031fe76ef7118",
+                    "target_timerange": {
+                        "start": 47000000,
+                        "duration": 6000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "ac217540b0944f5192c5c4f38e724c7e"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "282df014ab4b4974a6c44e98b3816382",
+                    "material_id": "b47d9f1dadd240abb1769c478142bf39",
+                    "target_timerange": {
+                        "start": 53000000,
+                        "duration": 7000000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "c8bff73fc1f445668533549107926fba"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "31e737ccc48245b0b0ef950f756e31e0",
+                    "material_id": "a4195875a2af4c6b84db4234870dd39d",
+                    "target_timerange": {
+                        "start": 60000000,
+                        "duration": 2589000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": null,
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "9838c7425cbc408e87e2ed3b4dbf92f3"
+                    ],
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "render_index": 15000
+                }
+            ],
+            "type": "text"
+        }
+    ],
+    "update_time": 0,
+    "version": 360000
+}

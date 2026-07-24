@@ -1,0 +1,12 @@
+{
+  "artifactId": "director-package-luxury-destruction-v1",
+  "episodeId": "luxury-destruction",
+  "version": 1,
+  "status": "Generated",
+  "ownerWorker": "Director Worker (manual extraction — no Skill implementation exists yet)",
+  "inputDependencies": ["script-package-luxury-destruction-v1"],
+  "outputConsumers": ["QA (not yet implemented in this repository)"],
+  "lastUpdated": "2026-07-11",
+  "approvalState": "Draft",
+  "notes": "Validation against SPEC-Director-Worker-v1 §11 is incomplete: the source material cites Visual Identity System v2 and Production Playbook v1 as its creative basis, but neither exists in canonical/ in this repository. This artifact's shot list, camera language, and prompts are extracted from the source Production Package's own already-authored creative decisions, not independently validated against the real canonical documents. See ../production-log.md."
+}
