@@ -114,11 +114,27 @@ one.
    `unsorted/Reveal_Brief_v1.md`'s section shape (see "Reference
    precedent" above).
 
-9. **Never finalize approval.** Per the Contract's Rules ("a Worker
-   prepares a decision, it does not grant one" — `OS-015`), mark both
-   outputs as generated/proposed, not approved. The Reveal gate is a human
-   gate; state this plainly in the output rather than implying the Reveal
-   Brief is already actionable.
+9. **Mark the Reveal Brief's approval state explicitly, using the
+   project's canonical artifact lifecycle** (`Draft → Generated →
+   Reviewed → Approved → Archived`, per `SPEC-001` §19 / OS-014 — the
+   same vocabulary already used in
+   `episodes/luxury-destruction/director-package-v2/director-package.meta.json`'s
+   `approvalState` field). Add a literal `**approvalState:**` header
+   line to the Reveal Brief, in the same header block
+   `unsorted/Reveal_Brief_v1.md` already uses for its own `**Status:**`
+   and `**Governance:**` lines. This Skill always writes
+   `**approvalState:** Generated` — never `Approved`. Per the Contract's
+   Rules ("a Worker prepares a decision, it does not grant one" —
+   `OS-015`) and `Reveal_Brief_v1.md`'s own precedent ("Claude does not
+   self-ratify"), this field exists specifically so a later Worker
+   invocation can check it as a real precondition, not just read prose
+   describing intent — see `editorial-worker/SKILL.md`, which halts
+   unless this field reads `Approved` and is the only place that field
+   may be changed to `Approved`, on the human's explicit instruction.
+   The Research Package does not get this field: it doesn't correspond
+   to a named Human Gate (`SPEC-001` §18 — "not every artifact
+   corresponds to a named Human Gate"); only the Reveal Brief is gated,
+   by the Reveal gate.
 
 10. **Where to write the output.** No Episode Workspace exists yet at this
     stage — Topic is deliberately pre-pipeline (see above), and Episode
