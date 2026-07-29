@@ -9,11 +9,14 @@ define binding rules.
 ## Subfolders
 
 - **`drafts/`** — documents that exist but haven't been ratified into any
-  category below yet. The 18 original Open Secret OS architecture drafts
-  (`OS-001` … `OS-018`) live here now, in one batch, exactly as they were
-  written. Sorting an individual draft into `architecture/`,
-  `specifications/`, or `principles/` — or promoting it into `canonical/`
-  — is a ratification decision, not an automatic move.
+  category below yet. 16 of the 18 original Open Secret OS architecture
+  drafts (`OS-001`…`OS-015`, `OS-018`) still live here, in one batch,
+  exactly as they were written. `OS-016` and `OS-017` were promoted into
+  `workers/` as part of the Architecture v1.0 freeze
+  (`docs/adr/ADR-0002-Architecture-v1.0-Freeze.md`). Sorting an individual
+  draft into `architecture/`, `specifications/`, or `principles/` — or
+  promoting it into `canonical/` or, as with `OS-016`/`OS-017`, into
+  `workers/` — is a ratification decision, not an automatic move.
 - **`architecture/`** — ratified, high-level descriptions of how the system
   is put together and why (the "why" behind `engine/`, `runtime/`,
   `workers/`).

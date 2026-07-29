@@ -408,16 +408,30 @@ contract — inputs and outputs — not its implementation.
 **Source:** Repository document (OS-008); repository document
 (`workers/README.md`).
 
-**Decision:** The current Worker registry: Research Worker (Topic /
-existing workspace → Research Package, Source Log), Editorial Worker
-(Research Package, canonical docs → Reveal Brief, Script Package),
-Director Worker (Script, Visual Identity, Playbook → Director Package,
-Shot List, AI Prompt Packages, Asset Manifest), Voice Worker (Script →
-Voice Package), QA Worker (all production artifacts → QA Report),
-Knowledge Worker (Postmortems → canonical change proposals only),
-Publishing Worker (approved artifacts → Published Episode).
+**Decision:** The current Worker registry: Research Worker (Topic →
+Research Package, Reveal Brief), Editorial Worker (Reveal Brief,
+canonical docs → Script Package; Research Package remains a referenced,
+non-trigger dependency for fact-checking), Director Worker (Script,
+Visual Identity, Playbook → Director Package, Shot List, AI Prompt
+Packages, Asset Manifest), Voice Worker (Script → Voice Package), QA
+Worker (all production artifacts → QA Report), Knowledge Worker
+(Postmortems → canonical change proposals only), Publishing Worker
+(approved artifacts → Published Episode).
 
-**Source:** Repository document (OS-008, OS-016, OS-017, OS-018).
+**Rationale:** Reveal Brief ownership moved from Editorial Worker to
+Research Worker as of the Architecture v1.0 freeze — an explicit,
+human-approved architectural decision, not drift. Justified by this
+repository's own production evidence (the real Dollar Dominance
+research-to-reveal chain and `the-giant-is-the-hostage`'s
+reveal-stage-before-script workspace both show reveal-selection
+happening entirely on the research side, before scripting begins) and by
+One Responsibility (finding the strongest reveal requires holding the
+full research corpus; scripting is a distinct prose/pacing craft applied
+to an already-decided reveal).
+
+**Source:** `workers/research-worker.md`, `workers/editorial-worker.md`
+(promoted from OS-016/OS-017, superseding this entry's prior citation of
+them as drafts); `docs/adr/ADR-0002-Architecture-v1.0-Freeze.md`.
 
 **Decision:** Worker *implementation*, including all prompt content, is
 deferred to `.claude/skills/<worker-name>/` and does not exist yet for any

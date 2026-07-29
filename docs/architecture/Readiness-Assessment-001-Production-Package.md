@@ -36,7 +36,10 @@ regardless.
 ## 1. What information already exists?
 
 - **The term itself is attested, but only loosely.** `docs/drafts/OS-016_Research_Worker.md`
-  lists "Topic or Production Package" as alternative Research Worker
+  (since promoted to `workers/research-worker.md`, which resolved this
+  exact phrasing per its own "renaming resolved" note — see
+  `docs/adr/ADR-0002-Architecture-v1.0-Freeze.md`)
+  listed "Topic or Production Package" as alternative Research Worker
   inputs — the only place any source draft uses the phrase.
 - **Two prior analyses of this exact gap already exist in the repository:**
   `docs/architecture/Architecture-Gap-Analysis-001.md` (root-caused the

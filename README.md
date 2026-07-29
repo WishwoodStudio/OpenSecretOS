@@ -28,11 +28,19 @@ never be stored there, and who owns it.
 
 ## Status
 
-`docs/drafts/` still holds the 18 original architecture drafts, not yet
-ratified. `canonical/` holds working documents (Decision Log, Visual
+**Architecture v1.0 (Frozen)** as of 2026-07-24 — see
+`docs/adr/ADR-0002-Architecture-v1.0-Freeze.md`. Further architectural
+redesign is deferred until real implementation or production experience
+demonstrates a concrete deficiency; improvements are tracked as backlog
+items, not immediate redesigns.
+
+`docs/drafts/` holds 16 of the original 18 architecture drafts, not yet
+ratified — `OS-016` and `OS-017` were promoted into `workers/` as part of
+the freeze. `canonical/` holds working documents (Decision Log, Visual
 Identity System, Production Playbook, Mechanism Ladder, and two items
 still in draft/placeholder state — see `canonical/README.md`). `episodes/`
 holds several episode workspaces at various production stages, from early
 research through fully assembled video. A first Worker implementation
-(Director Worker) exists under `.claude/skills/`. `CLAUDE.md` still does
-not exist.
+(Director Worker) exists under `.claude/skills/`; Research Worker and
+Editorial Worker have ratified contracts under `workers/` but no Skill
+implementation yet. `CLAUDE.md` still does not exist.
